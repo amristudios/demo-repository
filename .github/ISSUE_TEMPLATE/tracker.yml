@@ -1,5 +1,5 @@
-name: Bug Report
-description: Report a bug.
+name: Tracking issue
+description: Issue to track several related items .
 labels: ["tracking"]
 body:
   - type: textarea
