@@ -15,7 +15,7 @@ body:
   - type: textarea
     id: tracked
     attributes:
-      label: Steps to reproduce.
+      label: Checklist.
       description: |
         Provide a checklist of the things that are being tracked.
     validations:
